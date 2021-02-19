@@ -1,16 +1,33 @@
-# **Assignment Title**  
+# **Last 10 **  
 
 ## **Assignment Description**  
-
+Create a function called last10() that returns True if the last value of a given list a is equal to 10. Return False if the last value is not 10.
 
 ## **Examples**  
->
+>last10([2,2,2,2,2])  
+False  
+
+>last10([2,2,2,2,10])  
+True  
+
+>last10([45,345,22,117,10])  
+True  
 
 ## **Limitations**  
+1 function  
+1 list  
+0 for loops  
+1 if  
+1 else  
 
 ## **Hints**  
+you can send a list into a function by simply calling the function with the list as an argument.  
+Example:  
+
+print(list10([5,10,15,20,10]))
 
 ## **Concepts**  
+Unit 1, Unit 2, Unit 3, lists
 
 ---
 
